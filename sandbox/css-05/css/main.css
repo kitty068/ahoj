@@ -1,0 +1,16 @@
+body {
+    background-color: white;
+    color: black;
+}
+
+div {
+    clear: left;
+}
+
+#myList{
+    list-style: circle;
+}
+
+
+
+

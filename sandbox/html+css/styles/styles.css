@@ -1,0 +1,21 @@
+h1 {
+    color: rgb(7, 7, 7);
+}
+
+h2 {
+    color: rgb(127, 127, 127);
+}
+
+h3 {
+    color: #fa23fa;
+}
+
+
+
+
+
+head{
+    a:hover {
+        color: black;
+    }
+}
